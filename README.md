@@ -1,7 +1,7 @@
 # UCLA ACM ICPC Presents: CS 32 Technical Interview Prep Workshop
 
 
-###Schedule:  
+### Schedule:  
   * Workshop 1 (Week 2): Introduction to Technical Interviews  
   * Workshop 2 (Week 3): Linked Lists  
   * Workshop 3 (Week 5): Stacks and Queues  
