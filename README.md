@@ -13,13 +13,20 @@
 ## Workshop 1: Introduction to Technical Interviews
 Slides: https://docs.google.com/presentation/d/1SEaFGIBbvp7M_9ow1_6bcuTDRzenfgPmmCLPLU3_hAc/edit?usp=sharing
 
-[//]: <> (
 ## Workshop 2: Linked Lists
-Slides: 
+Coming Soon
 
 ## Workshop 3: Stacks and Queues
-Slides: 
+Coming Soon
 
 ## Workshop 4: Recursion
-Slides: 
-)
+Coming Soon 
+
+## Workshop 5: Big-O and STLs
+Coming Soon
+
+## Workshop 6: Trees and Binary Search
+Coming Soon
+
+## Workshop 7: Hash Tables
+Coming Soon
