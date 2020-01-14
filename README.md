@@ -1,2 +1,8 @@
-# cs32-interview-prep20
-UCLA ACM ICPCs CS 32 Technical Interview Preparation Workshop (Winter 2020)
+# UCLA ACM ICPC Presents: CS 32 Technical Interview Prep Workshop
+
+
+Schedule:
+
+
+# Workshop 1:
+Slides: https://docs.google.com/presentation/d/1SEaFGIBbvp7M_9ow1_6bcuTDRzenfgPmmCLPLU3_hAc/edit?usp=sharing
