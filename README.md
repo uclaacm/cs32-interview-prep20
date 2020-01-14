@@ -10,5 +10,16 @@
   * Workshop 6 (Week 8): Trees and Binary Search  
   * Workshop 7 (Week 9): Hash Tables  
 
-## Workshop 1:
+## Workshop 1: Introduction to Technical Interviews
 Slides: https://docs.google.com/presentation/d/1SEaFGIBbvp7M_9ow1_6bcuTDRzenfgPmmCLPLU3_hAc/edit?usp=sharing
+
+[//]: <> (
+## Workshop 2: Linked Lists
+Slides: 
+
+## Workshop 3: Stacks and Queues
+Slides: 
+
+## Workshop 4: Recursion
+Slides: 
+)
