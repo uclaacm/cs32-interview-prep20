@@ -16,7 +16,7 @@ Slides: https://docs.google.com/presentation/d/1SEaFGIBbvp7M_9ow1_6bcuTDRzenfgPm
 Warmup Problem: Fizz Buzz    
    * Leetcode Problem 412: https://leetcode.com/problems/fizz-buzz/  
    * C++ Solution:   
-   * Python Solution:   
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Warmup_Fizz%20Buzz_412.py  
    
 Problem 1: Power of Two  
    * Leetcode Problem 231: https://leetcode.com/problems/power-of-two/
