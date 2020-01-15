@@ -1,4 +1,5 @@
-# UCLA ACM ICPC Presents: CS 32 Technical Interview Prep Workshop
+# CS 32 Technical Interview Prep Workshop
+Presented by UCLA ACM ICPC  
 Event Details: https://tinyurl.com/cs32-icpc
 
 ### Schedule:  
@@ -15,28 +16,28 @@ Slides: https://docs.google.com/presentation/d/1SEaFGIBbvp7M_9ow1_6bcuTDRzenfgPm
 
 Warmup Problem: Fizz Buzz    
    * Leetcode Problem 412: https://leetcode.com/problems/fizz-buzz/  
-   * C++ Solution:   
-   * Python Solution:   
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Warmup_Fizz%20Buzz_412.cpp  
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Warmup_Fizz%20Buzz_412.py  
    
 Problem 1: Power of Two  
    * Leetcode Problem 231: https://leetcode.com/problems/power-of-two/
-   * C++ Solution:   
-   * Python Solution:  
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem1_Power%20of%20Two_231.cpp  
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem1_Power%20of%20Two_231.py  
 
 Problem 2: Remove Vowels from a String  
    * Leetcode Problem 1119: https://leetcode.com/problems/remove-vowels-from-a-string/
-   * C++ Solution:   
-   * Python Solution:  
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem2_Remove%20Vowels%20from%20a%20String_1119.cpp  
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem2_Remove%20Vowels%20from%20a%20String_1119.py 
 
 Problem 3: Robot Return to Origin  
    * Leetcode Problem 657: https://leetcode.com/problems/robot-return-to-origin/   
-   * C++ Solution:   
-   * Python Solution:  
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem3_Robot%20Return%20to%20Origin_657.cpp   
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem3_Robot%20Return%20to%20Origin_657.py 
    
 Problem 4: To Lower Case   
    * Leetcode Problem 709: https://leetcode.com/problems/to-lower-case/
-   * C++ Solution:   
-   * Python Solution:  
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem4_To%20Lower%20Case_709.cpp  
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop1_Introduction/Problem4_To%20Lower%20Case_709.py 
    
 Additional Problems:  
    * Leetcode Problem 344: https://leetcode.com/problems/reverse-string/
