@@ -1,5 +1,5 @@
 # UCLA ACM ICPC Presents: CS 32 Technical Interview Prep Workshop
-
+Event Details: tinyurl.com/cs32-icpc
 
 ### Schedule:  
   * Workshop 1 (Week 2): Introduction to Technical Interviews  
@@ -12,6 +12,37 @@
 
 ## Workshop 1: Introduction to Technical Interviews
 Slides: https://docs.google.com/presentation/d/1SEaFGIBbvp7M_9ow1_6bcuTDRzenfgPmmCLPLU3_hAc/edit?usp=sharing
+
+Warmup Problem: Fizz Buzz  
+   Leetcode Problem 412: https://leetcode.com/problems/fizz-buzz/  
+   C++ Solution:   
+   Python Solution:   
+   
+Problem 1: Power of Two
+   Leetcode Problem 231: https://leetcode.com/problems/power-of-two/
+   C++ Solution:   
+   Python Solution:  
+
+Problem 2: Remove Vowels from a String
+   Leetcode Problem 1119: https://leetcode.com/problems/remove-vowels-from-a-string/
+   C++ Solution:   
+   Python Solution:  
+
+Problem 3: Robot Return to Origin
+   Leetcode Problem 657: https://leetcode.com/problems/robot-return-to-origin/   
+   C++ Solution:   
+   Python Solution:  
+   
+Problem 4: To Lower Case 
+   Leetcode Problem 709: https://leetcode.com/problems/to-lower-case/
+   C++ Solution:   
+   Python Solution:  
+   
+Additional Problems:
+   Leetcode Problem 344: https://leetcode.com/problems/reverse-string/
+   Leetcode Problem 283: https://leetcode.com/problems/move-zeroes/
+   Leetcode Problem 7: https://leetcode.com/problems/reverse-integer/
+   Leetcode Problem 66: https://leetcode.com/problems/plus-one/
 
 ## Workshop 2: Linked Lists
 Coming Soon
