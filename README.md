@@ -1,4 +1,5 @@
-# UCLA ACM ICPC Presents:   CS 32 Technical Interview Prep Workshop
+# UCLA ACM ICPC Presents:   
+# CS 32 Technical Interview Prep Workshop
 Event Details: https://tinyurl.com/cs32-icpc
 
 ### Schedule:  
