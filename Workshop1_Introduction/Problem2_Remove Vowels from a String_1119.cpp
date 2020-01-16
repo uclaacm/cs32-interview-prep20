@@ -9,3 +9,32 @@
     Leetcode Problem 1119
     https://leetcode.com/problems/remove-vowels-from-a-string/
 */
+
+class Solution {
+public:
+    string removeVowels(string s) {
+        // Our strategy is to construct a string that is identical
+        // to s, without including the vowels
+        string result = "";
+
+        for(int i = 0; i < s.size(); i++) {
+
+            // Add the current character only if
+            // it is not a noun 
+            char cur = s[i];
+            if(!isVowel(cur))
+                result += str[i];
+        }
+
+        return result;
+    }
+private:
+    // Checks if the value of c is a vowel
+    bool isVowel(char c) {
+        return c == 'a' ||
+               c == 'e' ||
+               c == 'i' || 
+               c == 'o' || 
+               c == 'u';
+    }
+};
