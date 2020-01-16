@@ -20,7 +20,7 @@ public:
         for(int i = 0; i < s.size(); i++) {
 
             // Add the current character only if
-            // it is not a noun 
+            // it is not a vowel
             char cur = s[i];
             if(!isVowel(cur))
                 result += str[i];
