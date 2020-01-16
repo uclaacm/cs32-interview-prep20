@@ -23,7 +23,7 @@ public:
             // it is not a vowel
             char cur = s[i];
             if(!isVowel(cur))
-                result += str[i];
+                result += s[i];
         }
 
         return result;
