@@ -1,8 +1,8 @@
 # CS 32 Technical Interview Prep Workshop
 Presented by UCLA ACM ICPC  
-Event Details: https://tinyurl.com/cs32-icpc
-Questions: https://tinyurl.com/ask-ucla-icpc
-ICPC Facebook Group: https://www.facebook.com/groups/ucla.icpc/
+Event Details: https://tinyurl.com/cs32-icpc  
+Questions: https://tinyurl.com/ask-ucla-icpc  
+ICPC Facebook Group: https://www.facebook.com/groups/ucla.icpc/  
 
 ### Schedule:  
   * Workshop 1 (Week 2): Introduction to Technical Interviews  
