@@ -49,7 +49,43 @@ Additional Problems:
    * Leetcode Problem 66: https://leetcode.com/problems/plus-one/
 
 ## Workshop 2: Linked Lists
-Coming Soon
+Slides: https://docs.google.com/presentation/d/1JLyHwHtVZiEKCivv0K1txKbsF-P8bZCe8CkCZjhHiAM/edit
+
+Warmup Problem: Delete Node in a Linked List
+   * Leetcode Problem 237: https://leetcode.com/problems/delete-node-in-a-linked-list/
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Warmup_.cpp
+   * Python Solution:
+   
+Problem 1: Middle of the Linked List
+   * Leetcode Problem 876: https://leetcode.com/problems/middle-of-the-linked-list
+   * C++ Solution: 
+   * Python Solution:
+   
+Problem 2: Reverse Linked List
+   * Leetcode Problem 206: https://leetcode.com/problems/reverse-linked-list
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem2_Reverse%20Linked%20List.cpp
+   * Python Solution: 
+
+Problem 3: Merge Two Sorted Lists
+   * Leetcode Problem 21: https://leetcode.com/problems/merge-two-sorted-lists/
+   * C++ Solution: 
+   * Python Solution:
+
+Problem 4: Linked List Cycle
+   * Leetcode Problem 141: https://leetcode.com/problems/linked-list-cycle
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem1_Linked%20List%20Cycle.cpp
+   * Python Solution: 
+
+Bonus Problem: Intersection of Two Linked Lists
+   * Leetcode Problem 160: https://leetcode.com/problems/intersection-of-two-linked-lists
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem3_Intersection%20of%20Two%20Linked%20Lists
+   * Python Solution:
+
+Additional Problems:
+   * Leetcode Problem 83: https://leetcode.com/problems/remove-duplicates-from-sorted-list
+   * Leetcode Problem 203: https://leetcode.com/problems/remove-linked-list-elements/
+   * Leetcode Problem 1290: https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+   * Leetcode Problem 234: https://leetcode.com/problems/palindrome-linked-list
 
 ## Workshop 3: Stacks and Queues
 Coming Soon
