@@ -16,14 +16,15 @@ public:
         {
             return NULL;
         }
+		
         ListNode *tempA = headA, *tempB = headB;
         
-        while(tempA->next != NULL)
+        while(tempA->next != NULL) //get the length of the branch A
         {
             lA++;
             tempA = tempA->next;
         }
-        while(tempB->next != NULL)
+        while(tempB->next != NULL) //get the length of the branch B
         {
             lB++;
             tempB = tempB->next;
@@ -35,7 +36,7 @@ public:
         //if one branch is longer, than we can skip "skip" number of values as it wont converge
         //before then
         
-        if(lA > lB)
+        if(lA > lB) //if the length of branch A is longer, go from there
         {
             while(skip-- > 0)
             {
@@ -43,14 +44,16 @@ public:
                 //skip--;
             }
         }
-        else if (lB > lA){
+        else if (lB > lA){ // if the length of branch B is longer, go from there
             while(skip-- > 0)
             {
                 headB = headB->next;
                 //skip--;
             }
         }
-        while(headB != headA)
+		//no else as that is if lA and lB are the same length
+		
+        while(headB != headA) 
         {
             headA = headA->next;
             headB = headB->next;
