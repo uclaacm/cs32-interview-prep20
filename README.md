@@ -54,27 +54,27 @@ Slides: https://docs.google.com/presentation/d/1JLyHwHtVZiEKCivv0K1txKbsF-P8bZCe
 Warmup Problem: Delete Node in a Linked List
    * Leetcode Problem 237: https://leetcode.com/problems/delete-node-in-a-linked-list/
    * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Warmup_.cpp
-   * Python Solution:
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Warmup_.py
    
 Problem 1: Middle of the Linked List
    * Leetcode Problem 876: https://leetcode.com/problems/middle-of-the-linked-list
    * C++ Solution: 
-   * Python Solution:
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem1_Middle_of_Linked_Lists.py
    
 Problem 2: Reverse Linked List
    * Leetcode Problem 206: https://leetcode.com/problems/reverse-linked-list
    * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem2_Reverse%20Linked%20List.cpp
-   * Python Solution: 
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem2_Reverse_Linked_Lists.py
 
 Problem 3: Merge Two Sorted Lists
    * Leetcode Problem 21: https://leetcode.com/problems/merge-two-sorted-lists/
    * C++ Solution: 
-   * Python Solution:
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem3_Merge_Two_Sorted_Lists.py
 
 Problem 4: Linked List Cycle
    * Leetcode Problem 141: https://leetcode.com/problems/linked-list-cycle
    * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem1_Linked%20List%20Cycle.cpp
-   * Python Solution: 
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop2_Linked%20Lists/Problem4_LinkedListCycle.py
 
 Bonus Problem: Intersection of Two Linked Lists
    * Leetcode Problem 160: https://leetcode.com/problems/intersection-of-two-linked-lists
