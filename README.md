@@ -88,7 +88,33 @@ Additional Problems:
    * Leetcode Problem 234: https://leetcode.com/problems/palindrome-linked-list
 
 ## Workshop 3: Stacks and Queues
-Coming Soon
+Slides: https://docs.google.com/presentation/d/1T6h2FOzrU48AzzI5K8gE9X0Rk7FPJTT6EUKUByBMgpw/edit?usp=sharing
+
+Warmup Problem: Valid Parentheses
+   * Leetcode Problem 20: https://leetcode.com/problems/valid-parentheses/
+   * C++ Solution:
+   * Python Solution:
+   
+Problem 1: Backspace String Compare
+   * Leetcode Problem 844: https://leetcode.com/problems/backspace-string-compare/
+   * C++ Solution:
+   * Python Solution:
+   
+Problem 2: Implement Stack Using Queues
+   * Leetcode Problem 225: https://leetcode.com/problems/implement-stack-using-queues/
+   * C++ Solution:
+   * Python Solution:
+   
+Problem 3: Evaluate Postfix Expressions
+   * Geeks for Geeks Problem: https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
+   * CS 32 Solution: https://docs.google.com/presentation/d/1gMBk2Km7qNUcvF-4pSBIyK-ynjQbHsQv/edit#slide=id.p16
+   * C++ Solution:
+   * Python Solution:
+
+Problem 4: Remove Outermost Parentheses
+   * Leetcode Problem 1021: https://leetcode.com/problems/remove-outermost-parentheses/
+   * C++ Solution:
+   * Python Solution:
 
 ## Workshop 4: Recursion
 Coming Soon 
