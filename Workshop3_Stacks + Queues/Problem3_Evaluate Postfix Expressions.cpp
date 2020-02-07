@@ -6,6 +6,7 @@
     solutions to questions for learning purposes only
 
     Evaluate Postfix Expressions
+    Geeks4Geeks: https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
 */
 
 // Return the value of the postfix expression. Assume
