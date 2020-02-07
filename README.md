@@ -92,29 +92,29 @@ Slides: https://docs.google.com/presentation/d/1T6h2FOzrU48AzzI5K8gE9X0Rk7FPJTT6
 
 Warmup Problem: Valid Parentheses
    * Leetcode Problem 20: https://leetcode.com/problems/valid-parentheses/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Warmup_Valid%20Parentheses_20.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Warmup_Valid%20Parentheses_20.py
    
 Problem 1: Backspace String Compare
    * Leetcode Problem 844: https://leetcode.com/problems/backspace-string-compare/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem1_Backspace%20String%20Compare_844.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem1_Backspace%20String%20Compare_844.py
    
 Problem 2: Implement Stack Using Queues
    * Leetcode Problem 225: https://leetcode.com/problems/implement-stack-using-queues/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem2_Implement%20Stack%20Using%20Queues_255.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem2_Implement%20Stack%20Using%20Queues_255.py
    
 Problem 3: Evaluate Postfix Expressions
    * Geeks for Geeks Problem: https://www.geeksforgeeks.org/stack-set-4-evaluation-postfix-expression/
    * CS 32 Solution: https://docs.google.com/presentation/d/1gMBk2Km7qNUcvF-4pSBIyK-ynjQbHsQv/edit#slide=id.p16
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem3_Evaluate%20Postfix%20Expressions.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem3_Evaluate%20Postfix%20Expressions.py
 
 Problem 4: Remove Outermost Parentheses
    * Leetcode Problem 1021: https://leetcode.com/problems/remove-outermost-parentheses/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem3_Evaluate%20Postfix%20Expressions.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem4_Remove%20Outermost%20Parentheses_1021.py
 
 ## Workshop 4: Recursion
 Coming Soon 
