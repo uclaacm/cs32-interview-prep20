@@ -117,7 +117,33 @@ Problem 4: Remove Outermost Parentheses
    * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop3_Stacks%20%2B%20Queues/Problem4_Remove%20Outermost%20Parentheses_1021.py
 
 ## Workshop 4: Recursion
-Coming Soon 
+Slides: https://docs.google.com/presentation/d/1Cs-cDp8teGPEopOy-AiCJJ7pDy4U2L6SyRBh_K_3-BI/edit?usp=sharing
+
+Warmup Problem: Factorial
+   * Geeks for Geeks problem: https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
+   * C++ Solution:
+   * Python Solution:
+   
+Problem 1: Sum Of Array Of Numbers Using Recursion.
+   * Geeks for Geeks: https://www.geeksforgeeks.org/sum-array-elements-using-recursion/
+   * C++ Solution: 
+   * Python Solution:
+   
+Problem 2: Group Integers
+   * CodingBat: https://codingbat.com/prob/p145416
+   * C++ Solution:
+   * Python Solution:
+   
+Problem 3: Climbing Stairs.
+   * Leetcode: https://leetcode.com/problems/climbing-stairs/
+   * C++ Solution:
+   * Python Solution:
+
+Problem 4: Letter Combinations.
+   * Leetcode Problem 17: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+   * C++ Solution:
+   * Python Solution:
+   
 
 ## Workshop 5: Big-O and STLs
 Coming Soon
