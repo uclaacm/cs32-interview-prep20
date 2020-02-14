@@ -121,28 +121,28 @@ Slides: https://docs.google.com/presentation/d/1Cs-cDp8teGPEopOy-AiCJJ7pDy4U2L6S
 
 Warmup Problem: Factorial
    * Geeks for Geeks problem: https://www.geeksforgeeks.org/program-for-factorial-of-a-number/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/Warmup_.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/Warmup_.py
    
 Problem 1: Sum Of Array Of Numbers Using Recursion.
    * Geeks for Geeks: https://www.geeksforgeeks.org/sum-array-elements-using-recursion/
-   * C++ Solution: 
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem1_sum_of_array_of_numbers.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem1_sum_of_array_of_numbers.py
    
 Problem 2: Group Integers
    * CodingBat: https://codingbat.com/prob/p145416
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem2_group_integers.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem2_group_integers.py
    
 Problem 3: Climbing Stairs.
    * Leetcode: https://leetcode.com/problems/climbing-stairs/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem3_climbing_stairs.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem3_climbing_stairs.py
 
 Problem 4: Letter Combinations.
    * Leetcode Problem 17: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-   * C++ Solution:
-   * Python Solution:
+   * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem4_letter_combinations.cpp
+   * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem4_letter_combinations.py
    
 
 ## Workshop 5: Big-O and STLs
