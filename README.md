@@ -145,8 +145,29 @@ Problem 4: Letter Combinations.
    * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop4_Recursion/problem4_letter_combinations.py
    
 
-## Workshop 5: Big-O and STLs
-Coming Soon
+## Workshop 5: Big-O
+Slides: https://docs.google.com/presentation/d/1j1nIrwrgjOxo5cS73hW8agERTAz2f7qLRAjSZE88MNg/edit#slide=id.g7e66b61697_1_24
+Kahoot: https://play.kahoot.it/v2/lobby?quizId=e7d7d6ba-b368-41fa-8fc9-3c41f950ee29
+
+Problem 1: Valid Anagram
+ * Leetcode Problem 242: https://leetcode.com/problems/valid-anagram/
+ * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem1_Valid_Anagram.cpp
+ * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem1_Valid_Anagram.py
+ 
+Problem 2: Missing Number
+ * Leetcode Problem 268: https://leetcode.com/problems/missing-number/
+ * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem2_Missing_Number.cpp
+ * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem2_Missing_Number.py
+ 
+Problem 3: Add Digits
+ * Leetcode Problem 258: https://leetcode.com/problems/add-digits/
+ * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem3_Add_Digits.cpp
+ * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem3_Add_Digits.py
+ 
+ Problem 4: Find Peak Element
+ * Leetcode Problem 162: https://leetcode.com/problems/find-peak-element/
+ * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem4_Find_Peak_Element.cpp
+ * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem4_Find_Peak_Element.py
 
 ## Workshop 6: Trees and Binary Search
 Coming Soon
