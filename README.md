@@ -169,8 +169,25 @@ Problem 3: Add Digits
  * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem4_Find_Peak_Element.cpp
  * Python Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop5_BigO/Problem4_Find_Peak_Element.py
 
-## Workshop 6: Trees and Binary Search
-Coming Soon
+## Workshop 6: Trees and Hash Tables
+Slides: https://docs.google.com/presentation/d/1jknXhuq3UFEp7bR-nkYsR8GbIeF1UHBmoN3rTohBTc0/edit?usp=sharing
 
-## Workshop 7: Hash Tables
-Coming Soon
+Problem 1: Sum of Left Leaves
+ * Leetcode Problem 404: https://leetcode.com/problems/sum-of-left-leaves/
+ * C++ Solution: 
+ * Python Solution:
+ 
+Problem 2: Path Sum
+ * Leetcode Problem 112: https://leetcode.com/problems/path-sum/
+ * C++ Solution:
+ * Python Solution:
+ 
+Problem 3: Two Sum
+ * Leetcode Problem 1: https://leetcode.com/problems/two-sum/
+ * C++ Solution:
+ * Python Solution:
+ 
+ Problem 4: Find Peak Element
+ * Leetcode Problem 349: https://leetcode.com/problems/intersection-of-two-arrays/ 
+ * C++ Solution: 
+ * Python Solution:
