@@ -174,20 +174,20 @@ Slides: https://docs.google.com/presentation/d/1jknXhuq3UFEp7bR-nkYsR8GbIeF1UHBm
 
 Problem 1: Sum of Left Leaves
  * Leetcode Problem 404: https://leetcode.com/problems/sum-of-left-leaves/
- * C++ Solution: 
- * Python Solution:
+ * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem1_Sum%20of%20Left%20Leaves_404.cpp
+ * Python Solution:https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem1_Sum_of_Left_Leaves_404.py
  
 Problem 2: Path Sum
  * Leetcode Problem 112: https://leetcode.com/problems/path-sum/
- * C++ Solution:
- * Python Solution:
+ * C++ Solution:https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem2_Path%20Sum_112.cpp
+ * Python Solution:https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem2_Path_Sum_112.py
  
 Problem 3: Two Sum
  * Leetcode Problem 1: https://leetcode.com/problems/two-sum/
- * C++ Solution:
- * Python Solution:
+ * C++ Solution:https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem3_Two%20Sum_1.cpp
+ * Python Solution:https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem3_Two%20Sum_1.py
  
  Problem 4: Intersection of Two Arrays
  * Leetcode Problem 349: https://leetcode.com/problems/intersection-of-two-arrays/ 
- * C++ Solution: 
- * Python Solution:
+ * C++ Solution: https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem4_Intersection%20of%20Two%20Arrays_349.cpp
+ * Python Solution:https://github.com/uclaacm/cs32-interview-prep20/blob/master/Workshop6_Trees%20%2B%20Hash%20Tables/Problem4_Intersection%20of%20Two%20Arrays_349.py
