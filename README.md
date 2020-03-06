@@ -187,7 +187,7 @@ Problem 3: Two Sum
  * C++ Solution:
  * Python Solution:
  
- Problem 4: Find Peak Element
+ Problem 4: Intersection of Two Arrays
  * Leetcode Problem 349: https://leetcode.com/problems/intersection-of-two-arrays/ 
  * C++ Solution: 
  * Python Solution:
